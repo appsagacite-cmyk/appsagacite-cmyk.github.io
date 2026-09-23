@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.appsagacite_cmyk.twa",
+      "sha256_cert_fingerprints":
+        ["AF:07:7D:5F:D0:93:48:02:6F:F1:97:89:05:04:B9:67:2C:73:5B:28:BE:FD:70:DA:F1:E2:12:C5:1C:35:96:05"]
+    }
+  }
+]
